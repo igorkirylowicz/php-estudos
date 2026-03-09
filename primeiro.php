@@ -11,8 +11,3 @@ $nome = "Igor";
 $idade = 26;
 
 echo "Meu nome é $nome e tenho $idade anos";
-
-
-
-
-
