@@ -19,9 +19,9 @@ echo "Meu nome é $nome e tenho $idade anos";
 
 
 // Condicionais
-
-$idade = 20;
 /*
+$idade = 20;
+
 if ($idade >= 18) 
     echo "Maior de idade ";
     echo "pode entrar";
