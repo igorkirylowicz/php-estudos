@@ -36,7 +36,19 @@ if ($idade >= 18) {
     echo "Menor de idade";
 }
 */
+/*
+$nome = "Igor";
+$idade = "18";
 
+    echo "Meu nome é $nome e tenho $idade anos";
 
+$produto = "Tênis";
+$preco = 200;
+$quantidade = 10;
 
+$total = $preco * $quantidade;
+
+    echo "O $produto custa R$ $preco, levando $quantidade quantidades você irá pagar R$ $total";
+
+*/
 
